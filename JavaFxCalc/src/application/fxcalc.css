@@ -1,0 +1,10 @@
+
+.root {
+-fx-font-size: 26px;
+}
+.button {
+-fx-background-radius: 5%;
+-fx-font-size: 20px;
+-fx-max-width:2000px;
+-fx-max-height:2000px;
+}
